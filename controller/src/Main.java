@@ -16,6 +16,7 @@ public class Main {
             System.out.println("three");
             System.out.println("added 4");
             System.out.println("added from console");
+
         }
     }
 }
