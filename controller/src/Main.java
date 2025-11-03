@@ -11,6 +11,9 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("Changes made for bug fixing logic");
             System.out.println("using same branch twice ");
+            System.out.println("one");
+            System.out.println("two");
+            System.out.println("three");
         }
     }
 }
