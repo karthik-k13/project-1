@@ -10,9 +10,14 @@ public class Main {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("Changes made for bug fixing logic");
+            System.out.println("from Bharath");
+            System.out.println("push to feature");
+            System.out.println("using same branch twice ");
             System.out.println("one");
             System.out.println("two");
             System.out.println("three");
+            System.out.println("added 4");
+            System.out.println("added from console");
             System.out.println("from Bharath");
             System.out.println("push to feature");
         }
