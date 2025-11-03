@@ -15,7 +15,7 @@ public class Main {
             System.out.println("two");
             System.out.println("three");
             System.out.println("added 4");
-            sout("added from console");
+            System.out.println("added from console");
         }
     }
 }
