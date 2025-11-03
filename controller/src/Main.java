@@ -14,6 +14,7 @@ public class Main {
             System.out.println("one");
             System.out.println("two");
             System.out.println("three");
+            System.out.println("added 4");
         }
     }
 }
